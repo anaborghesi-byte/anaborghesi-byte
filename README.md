@@ -1,4 +1,4 @@
-# 👋 E aí, dev! Que bom te ver por aqui!
+# 👋 E aí, borghesi Que bom te ver por aqui!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Focada%20nos%20Estudos-brightgreen?style=for-the-badge&logo=github" alt="Status">
